@@ -1,6 +1,6 @@
 ## Hi 👋  
 
-I'm Damian — a frontend developer from Poland.  
+I'm Damian - a frontend developer from Poland.  
 
 I love building things that look good *and* feel good to use.  
 I usually work with React, TypeScript, Tailwind, GSAP and Framer Motion.  
